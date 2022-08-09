@@ -1,7 +1,7 @@
 package com.sajin;
 
 import java.util.Scanner;
-
+					
 public class Human {
 static String name;
 
@@ -12,6 +12,7 @@ static String name;
 		name=sc.nextLine();
 		System.out.println("MY name is "+name); 
 		System.out.println("Hai");
+		System.out.println("Welcome");
 
 	}
 
