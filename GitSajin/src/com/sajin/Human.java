@@ -10,7 +10,8 @@ static String name;
 		// TODO Auto-generated method stub
 		Scanner sc=new Scanner(System.in);
 		name=sc.nextLine();
-		System.out.println("MY name is "+name);
+		System.out.println("MY name is "+name); 
+		System.out.println("Hai");
 
 	}
 
